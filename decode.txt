@@ -1,0 +1,38 @@
+var this_anime_achievements = [];
+this_anime_achievements.push({
+category: "arcs",
+time_start: 215,
+title: "White Noise",
+description: "Посмотрите опенинг 2 сезона",
+icon: js_preres_url + "/uploads/achievements/icons/44481.jpg",
+id: "44481",
+hash: "21addef0fe9b9dcd"
+});
+this_anime_achievements.push({
+category: "heroes",
+time_start: 256,
+title: "Опасный тип",
+description: "Вы познакомились с Хаккай Шибой",
+icon: js_preres_url + "/uploads/achievements/icons/44482.jpg",
+id: "44482",
+hash: "e40002cf3cdc2243"
+});
+this_anime_achievements.push({
+category: "heroes",
+time_start: 477,
+title: "Старшая сестра",
+description: "Вы познакомились с Юзухой",
+icon: js_preres_url + "/uploads/achievements/icons/44483.jpg",
+id: "44483",
+hash: "766143de0d8fda9e"
+});
+this_anime_achievements.push({
+category: "heroes",
+time_start: 1165,
+title: "Глава Чёрных Драконов",
+description: "Вы познакомились с Тайджу",
+icon: js_preres_url + "/uploads/achievements/icons/44484.jpg",
+id: "44484",
+hash: "e2fb0862ed52eb38"
+});
+var this_anime_achievements_icons = [js_preres_url + "/uploads/achievements/icons/44481.jpg", js_preres_url + "/uploads/achievements/icons/44482.jpg", js_preres_url + "/uploads/achievements/icons/44483.jpg", js_preres_url + "/uploads/achievements/icons/44484.jpg", js_preres_url + "/templates/school/images/achiv/achievement_main.png", js_preres_url + "/templates/school/images/achiv/achievement_main_blink.png", js_preres_url + "/templates/school/images/achiv/achievement_main_glow.png", js_preres_url + "/templates/school/images/achiv/achievement_main_badge_frame.png"];
