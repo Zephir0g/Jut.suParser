@@ -16,6 +16,12 @@ dependencies {
     implementation 'org.jsoup:jsoup:1.15.3'
 }
 
+jar {
+    manifest {
+        attributes 'Main': 'com.fo4ik.Main'
+    }
+}
+
 test {
     useJUnitPlatform()
 }
